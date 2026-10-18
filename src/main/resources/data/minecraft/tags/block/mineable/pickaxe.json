@@ -1,0 +1,19 @@
+{
+  "values": [
+    "fireclay:kiln",
+    "fireclay:fired_tiles",
+    "fireclay:fired_tile_stairs",
+    "fireclay:fired_tile_slab",
+    "fireclay:lumen_tiles",
+    "fireclay:storage_jar",
+    "fireclay:memory_jar",
+    "fireclay:sentry_chime",
+    "fireclay:vigil_urn",
+    "fireclay:ember_tile",
+    "fireclay:reliquary_urn",
+    "fireclay:fireclay_bricks",
+    "fireclay:fireclay_brick_stairs",
+    "fireclay:fireclay_brick_slab",
+    "fireclay:fireclay_brick_wall"
+  ]
+}

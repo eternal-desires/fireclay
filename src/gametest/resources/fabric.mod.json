@@ -1,0 +1,26 @@
+{
+	"schemaVersion": 1,
+	"id": "fireclay-gametest",
+	"version": "1.0.0",
+	"name": "Fireclay Gametests",
+	"description": "Server and client gametests for Fireclay.",
+	"license": "MIT",
+	"environment": "*",
+	"entrypoints": {
+		"fabric-gametest": [
+			"io.github.eternaldesires.fireclay.test.RegistryGameTests",
+			"io.github.eternaldesires.fireclay.test.KilnGameTests",
+			"io.github.eternaldesires.fireclay.test.WorkshopGameTests",
+			"io.github.eternaldesires.fireclay.test.CeramicsGameTests",
+			"io.github.eternaldesires.fireclay.test.SentinelGameTests",
+			"io.github.eternaldesires.fireclay.test.SystemsGameTests"
+		],
+		"fabric-client-gametest": [
+			"io.github.eternaldesires.fireclay.test.FireclayClientGameTest"
+		]
+	},
+	"depends": {
+		"fireclay": "*",
+		"fabric-api": "*"
+	}
+}

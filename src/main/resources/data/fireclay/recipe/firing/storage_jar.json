@@ -1,0 +1,10 @@
+{
+  "type": "fireclay:firing",
+  "greenware": "fireclay:unfired_jar",
+  "min_heat": 350,
+  "max_heat": 600,
+  "time": 300,
+  "result": {
+    "id": "fireclay:storage_jar"
+  }
+}

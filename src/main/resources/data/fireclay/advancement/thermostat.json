@@ -1,0 +1,34 @@
+{
+  "parent": "fireclay:sweet_spot",
+  "criteria": {
+    "thermostat": {
+      "conditions": {
+        "action": "thermostat"
+      },
+      "trigger": "fireclay:potter_action"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.fireclay.thermostat.description"
+    },
+    "frame": "challenge",
+    "icon": {
+      "id": "fireclay:sentry_chime",
+      "components": {
+        "minecraft:enchantment_glint_override": true
+      }
+    },
+    "title": {
+      "translate": "advancements.fireclay.thermostat.title"
+    }
+  },
+  "requirements": [
+    [
+      "thermostat"
+    ]
+  ],
+  "rewards": {
+    "experience": 100
+  }
+}

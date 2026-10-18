@@ -1,0 +1,27 @@
+{
+  "parent": "fireclay:trial_by_fire",
+  "criteria": {
+    "cracked": {
+      "conditions": {
+        "action": "cracked"
+      },
+      "trigger": "fireclay:potter_action"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.fireclay.every_pot_has_its_crack.description"
+    },
+    "icon": {
+      "id": "fireclay:kiln_shard"
+    },
+    "title": {
+      "translate": "advancements.fireclay.every_pot_has_its_crack.title"
+    }
+  },
+  "requirements": [
+    [
+      "cracked"
+    ]
+  ]
+}

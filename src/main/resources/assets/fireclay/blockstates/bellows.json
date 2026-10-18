@@ -1,0 +1,50 @@
+{
+  "variants": {
+    "facing=down,pressed=false": {
+      "model": "fireclay:block/bellows",
+      "x": 90
+    },
+    "facing=down,pressed=true": {
+      "model": "fireclay:block/bellows_pressed",
+      "x": 90
+    },
+    "facing=east,pressed=false": {
+      "model": "fireclay:block/bellows",
+      "y": 90
+    },
+    "facing=east,pressed=true": {
+      "model": "fireclay:block/bellows_pressed",
+      "y": 90
+    },
+    "facing=north,pressed=false": {
+      "model": "fireclay:block/bellows"
+    },
+    "facing=north,pressed=true": {
+      "model": "fireclay:block/bellows_pressed"
+    },
+    "facing=south,pressed=false": {
+      "model": "fireclay:block/bellows",
+      "y": 180
+    },
+    "facing=south,pressed=true": {
+      "model": "fireclay:block/bellows_pressed",
+      "y": 180
+    },
+    "facing=up,pressed=false": {
+      "model": "fireclay:block/bellows",
+      "x": 270
+    },
+    "facing=up,pressed=true": {
+      "model": "fireclay:block/bellows_pressed",
+      "x": 270
+    },
+    "facing=west,pressed=false": {
+      "model": "fireclay:block/bellows",
+      "y": 270
+    },
+    "facing=west,pressed=true": {
+      "model": "fireclay:block/bellows_pressed",
+      "y": 270
+    }
+  }
+}

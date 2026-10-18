@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "fireclay:unfired_effigy"
+  ],
+  "result": {
+    "count": 8,
+    "id": "fireclay:fireclay_ball"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "fireclay:firing",
+  "greenware": "fireclay:unfired_jar",
+  "glaze": "fireclay:lapis_slip",
+  "min_heat": 540,
+  "max_heat": 680,
+  "time": 400,
+  "result": {
+    "id": "fireclay:memory_jar"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "fireclay:firing",
+  "greenware": "fireclay:unfired_tile",
+  "glaze": "fireclay:blaze_slip",
+  "min_heat": 760,
+  "max_heat": 880,
+  "time": 400,
+  "result": {
+    "count": 2,
+    "id": "fireclay:ember_tile"
+  }
+}

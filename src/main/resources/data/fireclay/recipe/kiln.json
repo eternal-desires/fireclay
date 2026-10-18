@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "B": "minecraft:brick",
+    "F": "minecraft:furnace",
+    "I": "minecraft:iron_bars"
+  },
+  "pattern": [
+    "BIB",
+    "BFB",
+    "BIB"
+  ],
+  "result": {
+    "id": "fireclay:kiln"
+  }
+}

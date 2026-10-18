@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "fireclay:unfired_tile"
+  ],
+  "result": {
+    "id": "minecraft:clay_ball"
+  }
+}

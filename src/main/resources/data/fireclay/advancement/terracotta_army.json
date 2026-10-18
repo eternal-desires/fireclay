@@ -1,0 +1,28 @@
+{
+  "parent": "fireclay:white_heat",
+  "criteria": {
+    "awakened": {
+      "conditions": {
+        "action": "awakened"
+      },
+      "trigger": "fireclay:potter_action"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.fireclay.terracotta_army.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "id": "fireclay:sentinel_effigy"
+    },
+    "title": {
+      "translate": "advancements.fireclay.terracotta_army.title"
+    }
+  },
+  "requirements": [
+    [
+      "awakened"
+    ]
+  ]
+}

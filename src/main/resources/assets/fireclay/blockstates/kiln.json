@@ -1,0 +1,244 @@
+{
+  "variants": {
+    "damper=false,facing=east,heat=0,lined=false": {
+      "model": "fireclay:block/kiln_h0",
+      "y": 90
+    },
+    "damper=false,facing=east,heat=0,lined=true": {
+      "model": "fireclay:block/kiln_h0_lined",
+      "y": 90
+    },
+    "damper=false,facing=east,heat=1,lined=false": {
+      "model": "fireclay:block/kiln_h1",
+      "y": 90
+    },
+    "damper=false,facing=east,heat=1,lined=true": {
+      "model": "fireclay:block/kiln_h1_lined",
+      "y": 90
+    },
+    "damper=false,facing=east,heat=2,lined=false": {
+      "model": "fireclay:block/kiln_h2",
+      "y": 90
+    },
+    "damper=false,facing=east,heat=2,lined=true": {
+      "model": "fireclay:block/kiln_h2_lined",
+      "y": 90
+    },
+    "damper=false,facing=east,heat=3,lined=false": {
+      "model": "fireclay:block/kiln_h3",
+      "y": 90
+    },
+    "damper=false,facing=east,heat=3,lined=true": {
+      "model": "fireclay:block/kiln_h3_lined",
+      "y": 90
+    },
+    "damper=false,facing=north,heat=0,lined=false": {
+      "model": "fireclay:block/kiln_h0"
+    },
+    "damper=false,facing=north,heat=0,lined=true": {
+      "model": "fireclay:block/kiln_h0_lined"
+    },
+    "damper=false,facing=north,heat=1,lined=false": {
+      "model": "fireclay:block/kiln_h1"
+    },
+    "damper=false,facing=north,heat=1,lined=true": {
+      "model": "fireclay:block/kiln_h1_lined"
+    },
+    "damper=false,facing=north,heat=2,lined=false": {
+      "model": "fireclay:block/kiln_h2"
+    },
+    "damper=false,facing=north,heat=2,lined=true": {
+      "model": "fireclay:block/kiln_h2_lined"
+    },
+    "damper=false,facing=north,heat=3,lined=false": {
+      "model": "fireclay:block/kiln_h3"
+    },
+    "damper=false,facing=north,heat=3,lined=true": {
+      "model": "fireclay:block/kiln_h3_lined"
+    },
+    "damper=false,facing=south,heat=0,lined=false": {
+      "model": "fireclay:block/kiln_h0",
+      "y": 180
+    },
+    "damper=false,facing=south,heat=0,lined=true": {
+      "model": "fireclay:block/kiln_h0_lined",
+      "y": 180
+    },
+    "damper=false,facing=south,heat=1,lined=false": {
+      "model": "fireclay:block/kiln_h1",
+      "y": 180
+    },
+    "damper=false,facing=south,heat=1,lined=true": {
+      "model": "fireclay:block/kiln_h1_lined",
+      "y": 180
+    },
+    "damper=false,facing=south,heat=2,lined=false": {
+      "model": "fireclay:block/kiln_h2",
+      "y": 180
+    },
+    "damper=false,facing=south,heat=2,lined=true": {
+      "model": "fireclay:block/kiln_h2_lined",
+      "y": 180
+    },
+    "damper=false,facing=south,heat=3,lined=false": {
+      "model": "fireclay:block/kiln_h3",
+      "y": 180
+    },
+    "damper=false,facing=south,heat=3,lined=true": {
+      "model": "fireclay:block/kiln_h3_lined",
+      "y": 180
+    },
+    "damper=false,facing=west,heat=0,lined=false": {
+      "model": "fireclay:block/kiln_h0",
+      "y": 270
+    },
+    "damper=false,facing=west,heat=0,lined=true": {
+      "model": "fireclay:block/kiln_h0_lined",
+      "y": 270
+    },
+    "damper=false,facing=west,heat=1,lined=false": {
+      "model": "fireclay:block/kiln_h1",
+      "y": 270
+    },
+    "damper=false,facing=west,heat=1,lined=true": {
+      "model": "fireclay:block/kiln_h1_lined",
+      "y": 270
+    },
+    "damper=false,facing=west,heat=2,lined=false": {
+      "model": "fireclay:block/kiln_h2",
+      "y": 270
+    },
+    "damper=false,facing=west,heat=2,lined=true": {
+      "model": "fireclay:block/kiln_h2_lined",
+      "y": 270
+    },
+    "damper=false,facing=west,heat=3,lined=false": {
+      "model": "fireclay:block/kiln_h3",
+      "y": 270
+    },
+    "damper=false,facing=west,heat=3,lined=true": {
+      "model": "fireclay:block/kiln_h3_lined",
+      "y": 270
+    },
+    "damper=true,facing=east,heat=0,lined=false": {
+      "model": "fireclay:block/kiln_h0_open",
+      "y": 90
+    },
+    "damper=true,facing=east,heat=0,lined=true": {
+      "model": "fireclay:block/kiln_h0_lined_open",
+      "y": 90
+    },
+    "damper=true,facing=east,heat=1,lined=false": {
+      "model": "fireclay:block/kiln_h1_open",
+      "y": 90
+    },
+    "damper=true,facing=east,heat=1,lined=true": {
+      "model": "fireclay:block/kiln_h1_lined_open",
+      "y": 90
+    },
+    "damper=true,facing=east,heat=2,lined=false": {
+      "model": "fireclay:block/kiln_h2_open",
+      "y": 90
+    },
+    "damper=true,facing=east,heat=2,lined=true": {
+      "model": "fireclay:block/kiln_h2_lined_open",
+      "y": 90
+    },
+    "damper=true,facing=east,heat=3,lined=false": {
+      "model": "fireclay:block/kiln_h3_open",
+      "y": 90
+    },
+    "damper=true,facing=east,heat=3,lined=true": {
+      "model": "fireclay:block/kiln_h3_lined_open",
+      "y": 90
+    },
+    "damper=true,facing=north,heat=0,lined=false": {
+      "model": "fireclay:block/kiln_h0_open"
+    },
+    "damper=true,facing=north,heat=0,lined=true": {
+      "model": "fireclay:block/kiln_h0_lined_open"
+    },
+    "damper=true,facing=north,heat=1,lined=false": {
+      "model": "fireclay:block/kiln_h1_open"
+    },
+    "damper=true,facing=north,heat=1,lined=true": {
+      "model": "fireclay:block/kiln_h1_lined_open"
+    },
+    "damper=true,facing=north,heat=2,lined=false": {
+      "model": "fireclay:block/kiln_h2_open"
+    },
+    "damper=true,facing=north,heat=2,lined=true": {
+      "model": "fireclay:block/kiln_h2_lined_open"
+    },
+    "damper=true,facing=north,heat=3,lined=false": {
+      "model": "fireclay:block/kiln_h3_open"
+    },
+    "damper=true,facing=north,heat=3,lined=true": {
+      "model": "fireclay:block/kiln_h3_lined_open"
+    },
+    "damper=true,facing=south,heat=0,lined=false": {
+      "model": "fireclay:block/kiln_h0_open",
+      "y": 180
+    },
+    "damper=true,facing=south,heat=0,lined=true": {
+      "model": "fireclay:block/kiln_h0_lined_open",
+      "y": 180
+    },
+    "damper=true,facing=south,heat=1,lined=false": {
+      "model": "fireclay:block/kiln_h1_open",
+      "y": 180
+    },
+    "damper=true,facing=south,heat=1,lined=true": {
+      "model": "fireclay:block/kiln_h1_lined_open",
+      "y": 180
+    },
+    "damper=true,facing=south,heat=2,lined=false": {
+      "model": "fireclay:block/kiln_h2_open",
+      "y": 180
+    },
+    "damper=true,facing=south,heat=2,lined=true": {
+      "model": "fireclay:block/kiln_h2_lined_open",
+      "y": 180
+    },
+    "damper=true,facing=south,heat=3,lined=false": {
+      "model": "fireclay:block/kiln_h3_open",
+      "y": 180
+    },
+    "damper=true,facing=south,heat=3,lined=true": {
+      "model": "fireclay:block/kiln_h3_lined_open",
+      "y": 180
+    },
+    "damper=true,facing=west,heat=0,lined=false": {
+      "model": "fireclay:block/kiln_h0_open",
+      "y": 270
+    },
+    "damper=true,facing=west,heat=0,lined=true": {
+      "model": "fireclay:block/kiln_h0_lined_open",
+      "y": 270
+    },
+    "damper=true,facing=west,heat=1,lined=false": {
+      "model": "fireclay:block/kiln_h1_open",
+      "y": 270
+    },
+    "damper=true,facing=west,heat=1,lined=true": {
+      "model": "fireclay:block/kiln_h1_lined_open",
+      "y": 270
+    },
+    "damper=true,facing=west,heat=2,lined=false": {
+      "model": "fireclay:block/kiln_h2_open",
+      "y": 270
+    },
+    "damper=true,facing=west,heat=2,lined=true": {
+      "model": "fireclay:block/kiln_h2_lined_open",
+      "y": 270
+    },
+    "damper=true,facing=west,heat=3,lined=false": {
+      "model": "fireclay:block/kiln_h3_open",
+      "y": 270
+    },
+    "damper=true,facing=west,heat=3,lined=true": {
+      "model": "fireclay:block/kiln_h3_lined_open",
+      "y": 270
+    }
+  }
+}

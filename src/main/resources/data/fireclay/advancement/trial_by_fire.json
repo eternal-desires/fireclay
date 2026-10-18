@@ -1,0 +1,27 @@
+{
+  "parent": "fireclay:root",
+  "criteria": {
+    "fired": {
+      "conditions": {
+        "action": "fired"
+      },
+      "trigger": "fireclay:potter_action"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.fireclay.trial_by_fire.description"
+    },
+    "icon": {
+      "id": "fireclay:kiln"
+    },
+    "title": {
+      "translate": "advancements.fireclay.trial_by_fire.title"
+    }
+  },
+  "requirements": [
+    [
+      "fired"
+    ]
+  ]
+}

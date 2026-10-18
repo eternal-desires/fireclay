@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "fireclay:block/fired_tiles",
+    "side": "fireclay:block/fired_tiles",
+    "top": "fireclay:block/fired_tiles"
+  }
+}

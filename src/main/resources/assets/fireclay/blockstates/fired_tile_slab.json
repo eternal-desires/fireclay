@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "fireclay:block/fired_tile_slab"
+    },
+    "type=double": {
+      "model": "fireclay:block/fired_tiles"
+    },
+    "type=top": {
+      "model": "fireclay:block/fired_tile_slab_top"
+    }
+  }
+}

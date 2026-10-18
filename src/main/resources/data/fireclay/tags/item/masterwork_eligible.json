@@ -1,0 +1,10 @@
+{
+  "values": [
+    "fireclay:memory_jar",
+    "fireclay:sentry_chime",
+    "fireclay:vigil_urn",
+    "fireclay:ember_tile",
+    "fireclay:reliquary_urn",
+    "fireclay:sentinel_effigy"
+  ]
+}

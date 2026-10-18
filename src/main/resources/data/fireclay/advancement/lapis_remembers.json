@@ -1,0 +1,30 @@
+{
+  "parent": "fireclay:trial_by_fire",
+  "criteria": {
+    "fired_memory_jar": {
+      "conditions": {
+        "action": "fired",
+        "item": {
+          "items": "fireclay:memory_jar"
+        }
+      },
+      "trigger": "fireclay:potter_action"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.fireclay.lapis_remembers.description"
+    },
+    "icon": {
+      "id": "fireclay:memory_jar"
+    },
+    "title": {
+      "translate": "advancements.fireclay.lapis_remembers.title"
+    }
+  },
+  "requirements": [
+    [
+      "fired_memory_jar"
+    ]
+  ]
+}

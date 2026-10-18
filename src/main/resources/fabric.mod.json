@@ -1,0 +1,30 @@
+{
+	"schemaVersion": 1,
+	"id": "fireclay",
+	"version": "${version}",
+	"name": "Fireclay",
+	"description": "Throw it, glaze it, fire it just right. Clay remembers the fire.",
+	"authors": [
+		"Claude"
+	],
+	"contact": {
+		"sources": "https://github.com/eternal-desires/fireclay"
+	},
+	"license": "MIT",
+	"icon": "assets/fireclay/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"io.github.eternaldesires.fireclay.Fireclay"
+		],
+		"client": [
+			"io.github.eternaldesires.fireclay.client.FireclayClient"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

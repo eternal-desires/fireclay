@@ -1,0 +1,31 @@
+{
+  "parent": "fireclay:sweet_spot",
+  "criteria": {
+    "hundred_fires": {
+      "conditions": {
+        "action": "hundred_fires"
+      },
+      "trigger": "fireclay:potter_action"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.fireclay.hundred_fires.description"
+    },
+    "frame": "challenge",
+    "icon": {
+      "id": "fireclay:fired_tiles"
+    },
+    "title": {
+      "translate": "advancements.fireclay.hundred_fires.title"
+    }
+  },
+  "requirements": [
+    [
+      "hundred_fires"
+    ]
+  ],
+  "rewards": {
+    "experience": 100
+  }
+}

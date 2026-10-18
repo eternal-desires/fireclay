@@ -1,0 +1,11 @@
+{
+  "type": "fireclay:firing",
+  "greenware": "fireclay:unfired_urn",
+  "glaze": "fireclay:glowink_slip",
+  "min_heat": 620,
+  "max_heat": 740,
+  "time": 500,
+  "result": {
+    "id": "fireclay:vigil_urn"
+  }
+}

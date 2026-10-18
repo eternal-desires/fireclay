@@ -1,0 +1,27 @@
+{
+  "parent": "fireclay:lined_with_failure",
+  "criteria": {
+    "ember_baked": {
+      "conditions": {
+        "action": "ember_baked"
+      },
+      "trigger": "fireclay:potter_action"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.fireclay.blaze_holds_heat.description"
+    },
+    "icon": {
+      "id": "fireclay:ember_tile"
+    },
+    "title": {
+      "translate": "advancements.fireclay.blaze_holds_heat.title"
+    }
+  },
+  "requirements": [
+    [
+      "ember_baked"
+    ]
+  ]
+}

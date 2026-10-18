@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "fireclay:fireclay_bricks",
+  "result": {
+    "count": 2,
+    "id": "fireclay:fireclay_brick_slab"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:clay_ball",
+    "minecraft:clay_ball",
+    "fireclay:grog",
+    [
+      "minecraft:sand",
+      "minecraft:red_sand"
+    ]
+  ],
+  "result": {
+    "count": 3,
+    "id": "fireclay:fireclay_ball"
+  }
+}

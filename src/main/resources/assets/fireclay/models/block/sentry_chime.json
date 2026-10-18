@@ -1,0 +1,197 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "particle": "fireclay:block/sentry_chime",
+    "bell": "fireclay:block/sentry_chime",
+    "mount": "fireclay:block/sentry_chime_mount"
+  },
+  "elements": [
+    {
+      "from": [
+        6,
+        0,
+        6
+      ],
+      "to": [
+        10,
+        2,
+        10
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            6,
+            6,
+            10,
+            10
+          ],
+          "texture": "#mount",
+          "cullface": "down"
+        },
+        "north": {
+          "uv": [
+            6,
+            14,
+            10,
+            16
+          ],
+          "texture": "#mount"
+        },
+        "south": {
+          "uv": [
+            6,
+            14,
+            10,
+            16
+          ],
+          "texture": "#mount"
+        },
+        "west": {
+          "uv": [
+            6,
+            14,
+            10,
+            16
+          ],
+          "texture": "#mount"
+        },
+        "east": {
+          "uv": [
+            6,
+            14,
+            10,
+            16
+          ],
+          "texture": "#mount"
+        }
+      }
+    },
+    {
+      "from": [
+        5,
+        2,
+        5
+      ],
+      "to": [
+        11,
+        9,
+        11
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            5,
+            9,
+            11,
+            15
+          ],
+          "texture": "#bell"
+        },
+        "north": {
+          "uv": [
+            5,
+            9,
+            11,
+            16
+          ],
+          "texture": "#bell"
+        },
+        "south": {
+          "uv": [
+            5,
+            9,
+            11,
+            16
+          ],
+          "texture": "#bell"
+        },
+        "west": {
+          "uv": [
+            5,
+            9,
+            11,
+            16
+          ],
+          "texture": "#bell"
+        },
+        "east": {
+          "uv": [
+            5,
+            9,
+            11,
+            16
+          ],
+          "texture": "#bell"
+        }
+      }
+    },
+    {
+      "from": [
+        4,
+        9,
+        4
+      ],
+      "to": [
+        12,
+        10,
+        12
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            4,
+            8,
+            12,
+            16
+          ],
+          "texture": "#bell"
+        },
+        "up": {
+          "uv": [
+            4,
+            0,
+            12,
+            8
+          ],
+          "texture": "#bell"
+        },
+        "north": {
+          "uv": [
+            4,
+            8,
+            12,
+            9
+          ],
+          "texture": "#bell"
+        },
+        "south": {
+          "uv": [
+            4,
+            8,
+            12,
+            9
+          ],
+          "texture": "#bell"
+        },
+        "west": {
+          "uv": [
+            4,
+            8,
+            12,
+            9
+          ],
+          "texture": "#bell"
+        },
+        "east": {
+          "uv": [
+            4,
+            8,
+            12,
+            9
+          ],
+          "texture": "#bell"
+        }
+      }
+    }
+  ]
+}

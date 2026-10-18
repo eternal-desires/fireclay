@@ -1,0 +1,30 @@
+{
+  "parent": "fireclay:trial_by_fire",
+  "criteria": {
+    "fired_sentry_chime": {
+      "conditions": {
+        "action": "fired",
+        "item": {
+          "items": "fireclay:sentry_chime"
+        }
+      },
+      "trigger": "fireclay:potter_action"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.fireclay.amethyst_listens.description"
+    },
+    "icon": {
+      "id": "fireclay:sentry_chime"
+    },
+    "title": {
+      "translate": "advancements.fireclay.amethyst_listens.title"
+    }
+  },
+  "requirements": [
+    [
+      "fired_sentry_chime"
+    ]
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "parent": "fireclay:trial_by_fire",
+  "criteria": {
+    "fired_vigil_urn": {
+      "conditions": {
+        "action": "fired",
+        "item": {
+          "items": "fireclay:vigil_urn"
+        }
+      },
+      "trigger": "fireclay:potter_action"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.fireclay.glow_keeps_vigil.description"
+    },
+    "icon": {
+      "id": "fireclay:vigil_urn"
+    },
+    "title": {
+      "translate": "advancements.fireclay.glow_keeps_vigil.title"
+    }
+  },
+  "requirements": [
+    [
+      "fired_vigil_urn"
+    ]
+  ]
+}

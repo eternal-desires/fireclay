@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "masterwork=false": {
+      "model": "fireclay:block/ember_tile"
+    },
+    "masterwork=true": {
+      "model": "fireclay:block/ember_tile"
+    }
+  }
+}

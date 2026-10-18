@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "fireclay:storage_jar"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "random_sequence": "fireclay:blocks/storage_jar"
+}

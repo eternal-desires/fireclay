@@ -1,0 +1,30 @@
+{
+  "parent": "fireclay:lined_with_failure",
+  "criteria": {
+    "fired_reliquary_urn": {
+      "conditions": {
+        "action": "fired",
+        "item": {
+          "items": "fireclay:reliquary_urn"
+        }
+      },
+      "trigger": "fireclay:potter_action"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.fireclay.echo_holds_a_soul.description"
+    },
+    "icon": {
+      "id": "fireclay:reliquary_urn"
+    },
+    "title": {
+      "translate": "advancements.fireclay.echo_holds_a_soul.title"
+    }
+  },
+  "requirements": [
+    [
+      "fired_reliquary_urn"
+    ]
+  ]
+}

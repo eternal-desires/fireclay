@@ -1,0 +1,27 @@
+{
+  "parent": "fireclay:hot_air",
+  "criteria": {
+    "pyrometer_read": {
+      "conditions": {
+        "action": "pyrometer_read"
+      },
+      "trigger": "fireclay:potter_action"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.fireclay.read_the_fire.description"
+    },
+    "icon": {
+      "id": "fireclay:pyrometer"
+    },
+    "title": {
+      "translate": "advancements.fireclay.read_the_fire.title"
+    }
+  },
+  "requirements": [
+    [
+      "pyrometer_read"
+    ]
+  ]
+}

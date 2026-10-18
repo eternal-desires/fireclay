@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "fireclay:fireclay_bricks",
+  "result": {
+    "id": "fireclay:fireclay_brick_stairs"
+  }
+}

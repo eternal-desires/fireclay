@@ -1,0 +1,29 @@
+{
+  "criteria": {
+    "threw": {
+      "conditions": {
+        "action": "threw"
+      },
+      "trigger": "fireclay:potter_action"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "background": "minecraft:block/terracotta",
+    "description": {
+      "translate": "advancements.fireclay.root.description"
+    },
+    "icon": {
+      "id": "fireclay:potters_wheel"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.fireclay.root.title"
+    }
+  },
+  "requirements": [
+    [
+      "threw"
+    ]
+  ]
+}

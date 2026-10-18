@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "filled=false": {
+      "model": "fireclay:block/reliquary_urn"
+    },
+    "filled=true": {
+      "model": "fireclay:block/reliquary_urn_filled"
+    }
+  }
+}

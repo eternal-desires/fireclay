@@ -1,0 +1,12 @@
+{
+  "type": "fireclay:firing",
+  "greenware": "fireclay:unfired_tile",
+  "glaze": "fireclay:glowink_slip",
+  "min_heat": 480,
+  "max_heat": 640,
+  "time": 300,
+  "result": {
+    "count": 4,
+    "id": "fireclay:lumen_tiles"
+  }
+}

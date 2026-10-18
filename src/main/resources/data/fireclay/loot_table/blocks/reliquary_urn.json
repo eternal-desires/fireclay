@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "fireclay:reliquary_urn"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "random_sequence": "fireclay:blocks/reliquary_urn"
+}

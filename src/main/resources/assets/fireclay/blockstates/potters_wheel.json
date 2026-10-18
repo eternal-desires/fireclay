@@ -1,0 +1,97 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "fireclay:block/potters_wheel_base"
+      }
+    },
+    {
+      "apply": {
+        "model": "fireclay:block/potters_wheel_head"
+      },
+      "when": {
+        "spinning": "false"
+      }
+    },
+    {
+      "apply": {
+        "model": "fireclay:block/potters_wheel_head_spinning"
+      },
+      "when": {
+        "spinning": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "fireclay:block/potters_wheel_lump_1"
+      },
+      "when": {
+        "clay": "1",
+        "fireclay": "false"
+      }
+    },
+    {
+      "apply": {
+        "model": "fireclay:block/potters_wheel_lump_fireclay_1"
+      },
+      "when": {
+        "clay": "1",
+        "fireclay": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "fireclay:block/potters_wheel_lump_2"
+      },
+      "when": {
+        "clay": "2",
+        "fireclay": "false"
+      }
+    },
+    {
+      "apply": {
+        "model": "fireclay:block/potters_wheel_lump_fireclay_2"
+      },
+      "when": {
+        "clay": "2",
+        "fireclay": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "fireclay:block/potters_wheel_lump_3"
+      },
+      "when": {
+        "clay": "3",
+        "fireclay": "false"
+      }
+    },
+    {
+      "apply": {
+        "model": "fireclay:block/potters_wheel_lump_fireclay_3"
+      },
+      "when": {
+        "clay": "3",
+        "fireclay": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "fireclay:block/potters_wheel_lump_4"
+      },
+      "when": {
+        "clay": "4",
+        "fireclay": "false"
+      }
+    },
+    {
+      "apply": {
+        "model": "fireclay:block/potters_wheel_lump_fireclay_4"
+      },
+      "when": {
+        "clay": "4",
+        "fireclay": "true"
+      }
+    }
+  ]
+}

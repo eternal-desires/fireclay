@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "B": "fireclay:fireclay_brick",
+    "Z": "minecraft:blaze_powder"
+  },
+  "pattern": [
+    "BBB",
+    "BZB",
+    "BBB"
+  ],
+  "result": {
+    "id": "fireclay:kiln_lining"
+  }
+}

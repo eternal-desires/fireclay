@@ -1,0 +1,11 @@
+{
+  "type": "fireclay:firing",
+  "greenware": "fireclay:unfired_bell",
+  "glaze": "fireclay:amethyst_slip",
+  "min_heat": 600,
+  "max_heat": 720,
+  "time": 400,
+  "result": {
+    "id": "fireclay:sentry_chime"
+  }
+}

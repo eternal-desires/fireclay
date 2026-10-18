@@ -1,0 +1,11 @@
+{
+  "type": "fireclay:firing",
+  "greenware": "fireclay:unfired_tile",
+  "min_heat": 300,
+  "max_heat": 600,
+  "time": 200,
+  "result": {
+    "count": 4,
+    "id": "fireclay:fired_tiles"
+  }
+}

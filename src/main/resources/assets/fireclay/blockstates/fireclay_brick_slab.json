@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "fireclay:block/fireclay_brick_slab"
+    },
+    "type=double": {
+      "model": "fireclay:block/fireclay_bricks"
+    },
+    "type=top": {
+      "model": "fireclay:block/fireclay_brick_slab_top"
+    }
+  }
+}

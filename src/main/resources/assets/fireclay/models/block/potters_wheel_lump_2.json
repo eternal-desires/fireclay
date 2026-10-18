@@ -1,0 +1,68 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "particle": "fireclay:block/wheel_clay",
+    "clay": "fireclay:block/wheel_clay"
+  },
+  "elements": [
+    {
+      "from": [
+        5.5,
+        12,
+        5.5
+      ],
+      "to": [
+        10.5,
+        15,
+        10.5
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            5.5,
+            5.5,
+            10.5,
+            10.5
+          ],
+          "texture": "#clay"
+        },
+        "north": {
+          "uv": [
+            5.5,
+            6.5,
+            10.5,
+            9.5
+          ],
+          "texture": "#clay"
+        },
+        "south": {
+          "uv": [
+            5.5,
+            6.5,
+            10.5,
+            9.5
+          ],
+          "texture": "#clay"
+        },
+        "west": {
+          "uv": [
+            5.5,
+            6.5,
+            10.5,
+            9.5
+          ],
+          "texture": "#clay"
+        },
+        "east": {
+          "uv": [
+            5.5,
+            6.5,
+            10.5,
+            9.5
+          ],
+          "texture": "#clay"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "type": "fireclay:firing",
+  "greenware": "fireclay:unfired_urn",
+  "glaze": "fireclay:echo_slip",
+  "min_heat": 820,
+  "max_heat": 900,
+  "time": 600,
+  "result": {
+    "id": "fireclay:reliquary_urn"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "masterwork=false": {
+      "model": "fireclay:block/vigil_urn"
+    },
+    "masterwork=true": {
+      "model": "fireclay:block/vigil_urn"
+    }
+  }
+}

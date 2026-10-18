@@ -1,0 +1,27 @@
+{
+  "parent": "fireclay:lined_with_failure",
+  "criteria": {
+    "white_heat": {
+      "conditions": {
+        "action": "white_heat"
+      },
+      "trigger": "fireclay:potter_action"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.fireclay.white_heat.description"
+    },
+    "icon": {
+      "id": "fireclay:fireclay_bricks"
+    },
+    "title": {
+      "translate": "advancements.fireclay.white_heat.title"
+    }
+  },
+  "requirements": [
+    [
+      "white_heat"
+    ]
+  ]
+}

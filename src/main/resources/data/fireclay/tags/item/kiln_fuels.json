@@ -1,0 +1,10 @@
+{
+  "values": [
+    "#fireclay:kiln_fuel/kindling",
+    "#fireclay:kiln_fuel/wood",
+    "#fireclay:kiln_fuel/coal",
+    "#fireclay:kiln_fuel/coal_block",
+    "#fireclay:kiln_fuel/lava",
+    "#fireclay:kiln_fuel/blaze"
+  ]
+}

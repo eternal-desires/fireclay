@@ -1,0 +1,28 @@
+{
+  "parent": "fireclay:every_pot_has_its_crack",
+  "criteria": {
+    "lined": {
+      "conditions": {
+        "action": "lined"
+      },
+      "trigger": "fireclay:potter_action"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.fireclay.lined_with_failure.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "id": "fireclay:kiln_lining"
+    },
+    "title": {
+      "translate": "advancements.fireclay.lined_with_failure.title"
+    }
+  },
+  "requirements": [
+    [
+      "lined"
+    ]
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "parent": "fireclay:trial_by_fire",
+  "criteria": {
+    "pumped": {
+      "conditions": {
+        "action": "pumped"
+      },
+      "trigger": "fireclay:potter_action"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.fireclay.hot_air.description"
+    },
+    "icon": {
+      "id": "fireclay:bellows"
+    },
+    "title": {
+      "translate": "advancements.fireclay.hot_air.title"
+    }
+  },
+  "requirements": [
+    [
+      "pumped"
+    ]
+  ]
+}

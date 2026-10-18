@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "fireclay:block/fired_tile_stairs"
+  }
+}

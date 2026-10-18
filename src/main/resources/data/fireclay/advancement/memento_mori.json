@@ -1,0 +1,28 @@
+{
+  "parent": "fireclay:echo_holds_a_soul",
+  "criteria": {
+    "reliquary_saved": {
+      "conditions": {
+        "action": "reliquary_saved"
+      },
+      "trigger": "fireclay:potter_action"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.fireclay.memento_mori.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "id": "fireclay:echo_slip"
+    },
+    "title": {
+      "translate": "advancements.fireclay.memento_mori.title"
+    }
+  },
+  "requirements": [
+    [
+      "reliquary_saved"
+    ]
+  ]
+}

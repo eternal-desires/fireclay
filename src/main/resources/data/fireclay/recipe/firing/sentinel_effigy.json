@@ -1,0 +1,11 @@
+{
+  "type": "fireclay:firing",
+  "greenware": "fireclay:unfired_effigy",
+  "glaze": "fireclay:blaze_slip",
+  "min_heat": 860,
+  "max_heat": 940,
+  "time": 800,
+  "result": {
+    "id": "fireclay:sentinel_effigy"
+  }
+}

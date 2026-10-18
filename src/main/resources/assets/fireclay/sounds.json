@@ -1,0 +1,59 @@
+{
+  "block.potters_wheel.throw": {
+    "sounds": [
+      "fireclay:block/potters_wheel/throw1",
+      "fireclay:block/potters_wheel/throw2",
+      "fireclay:block/potters_wheel/throw3"
+    ],
+    "subtitle": "subtitles.fireclay.block.potters_wheel.throw"
+  },
+  "block.bellows.pump": {
+    "sounds": [
+      "fireclay:block/bellows/pump1",
+      "fireclay:block/bellows/pump2"
+    ],
+    "subtitle": "subtitles.fireclay.block.bellows.pump"
+  },
+  "block.kiln.roar": {
+    "sounds": [
+      "fireclay:block/kiln/roar1",
+      "fireclay:block/kiln/roar2"
+    ],
+    "subtitle": "subtitles.fireclay.block.kiln.roar"
+  },
+  "block.kiln.overheat": {
+    "sounds": [
+      "fireclay:block/kiln/overheat1",
+      "fireclay:block/kiln/overheat2"
+    ],
+    "subtitle": "subtitles.fireclay.block.kiln.overheat"
+  },
+  "block.kiln.crack": {
+    "sounds": [
+      "fireclay:block/kiln/crack1",
+      "fireclay:block/kiln/crack2",
+      "fireclay:block/kiln/crack3"
+    ],
+    "subtitle": "subtitles.fireclay.block.kiln.crack"
+  },
+  "block.kiln.ping": {
+    "sounds": [
+      "fireclay:block/kiln/ping1",
+      "fireclay:block/kiln/ping2",
+      "fireclay:block/kiln/ping3"
+    ],
+    "subtitle": "subtitles.fireclay.block.kiln.ping"
+  },
+  "block.kiln.masterwork": {
+    "sounds": [
+      "fireclay:block/kiln/masterwork"
+    ],
+    "subtitle": "subtitles.fireclay.block.kiln.masterwork"
+  },
+  "entity.terracotta_sentinel.awaken": {
+    "sounds": [
+      "fireclay:entity/terracotta_sentinel/awaken"
+    ],
+    "subtitle": "subtitles.fireclay.entity.terracotta_sentinel.awaken"
+  }
+}

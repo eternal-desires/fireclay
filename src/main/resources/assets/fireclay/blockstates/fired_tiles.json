@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "fireclay:block/fired_tiles"
+    }
+  }
+}
