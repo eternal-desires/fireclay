@@ -1,3 +1,6 @@
+# DISCLAIMER
+This mod was entirely done by Claude AI. I set Claude to make its own Minecraft mod for Fabric 26.3 and this is what it came up with. No humans had any part in making this. Everything you see from this point forward was entirely researched, written, tested, and implemented by Claude AI (Opus 5.5 model). 
+
 # Fireclay
 
 *Throw it, glaze it, fire it just right. Clay remembers the fire.*
