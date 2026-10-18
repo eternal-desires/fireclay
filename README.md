@@ -4,6 +4,19 @@
 
 Fireclay is a pottery and kiln mod for **Minecraft 26.3** on **Fabric**. You throw greenware on a potter's wheel, mix glazes from minerals, and fire them in a kiln whose heat you have to manage by hand or with redstone. Fire a piece inside its window and you get a working ceramic. Hold the heat in the sweet spot and you get a signed **Masterwork**. Overshoot and it cracks.
 
+![Fireclay showcase: tiles, jars, urns, chime, kiln, bellows and two Terracotta Sentinels](docs/screenshots/showcase-day.png)
+
+## Screenshots
+
+| | |
+|---|---|
+| ![The kiln screen: greenware and lapis glaze over a coal-block fire at 612°, with the heat gauge showing the firing window and sweet spot](docs/screenshots/kiln-screen.png) | ![The Pyrometer HUD over a working kiln: 613°, 20% fired, needle inside the green window](docs/screenshots/pyrometer-hud.png) |
+| **Kiln screen:** greenware, glaze, fuel, and the heat gauge with the recipe's window and sweet spot | **Pyrometer:** look at a kiln to read its heat and progress without opening it |
+| ![A Terracotta Sentinel awakening in a burst of embers and smoke](docs/screenshots/sentinel-awakening.png) | ![The showcase at night](docs/screenshots/showcase-night.png) |
+| **Sentinel Awakening:** a fired effigy stands up as a guardian | **At night:** the same showcase after dark |
+
+These were captured by the client gametest. Every CI run takes the same shots again and uploads them as the `fireclay-screenshots` artifact.
+
 ## Requirements
 
 | | |
